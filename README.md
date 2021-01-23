@@ -1,2 +1,0 @@
-# OnlineStoreOOP
-Online Store OOP
