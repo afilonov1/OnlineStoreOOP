@@ -1,0 +1,11 @@
+.products {
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	/* align-content: stretch; */
+	/* flex-direction: column; */
+}
+
+.product-item {
+	margin-top: 20px;
+}
